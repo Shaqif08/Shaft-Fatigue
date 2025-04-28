@@ -8,7 +8,7 @@ from PIL import Image
 import os
 from glob import glob
 
-st.header("Shaft Fracture Analysis (SFA)")
+st.header("Shaft Fatigue Analysis (ShaFi)")
 
 st.subheader('Dimensional Parameters')
 htp="https://www.researchgate.net/profile/Changqing-Gong/publication/313456917/figure/fig1/AS:573308992266241@1513698923813/Schematic-illustration-of-the-geometry-of-a-typical-corrosion-defect.png"
